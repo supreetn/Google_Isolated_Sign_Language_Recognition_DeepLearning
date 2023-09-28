@@ -26,3 +26,11 @@ sign - The label for the landmark sequence.
 
 For this project, I have used transformer and LSTM.
 
+## 🔗 Contributors & Credits
+Supreetha Naik https://github.com/supreetn
+
+Sushmita Joshi https://github.com/sushmita3105
+
+Madhura Pandit https://github.com/madhurapandit
+
+Swetha Subramanian https://github.com/swethasubu93
