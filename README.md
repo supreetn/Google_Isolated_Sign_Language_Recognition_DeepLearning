@@ -1,5 +1,5 @@
 
-# Isolated Sign Language Recognition using Deep Learning technology
+# Isolated Sign Language Recognition using Deep Learning technologies
 Google American Sign Language detection using state-of-art deep learning models is a Kaggle competition (https://www.kaggle.com/competitions/asl-signs). The project's purpose is to classify solitary American Sign Language (ASL) signs. We trained a transformer and LSTM models on labeled landmark data. The delivarable is a TensorFlow Lite model fro mobile application. 
 
 ## Data 
