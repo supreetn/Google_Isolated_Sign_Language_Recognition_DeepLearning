@@ -15,7 +15,7 @@ The landmark data are in parquet. Each parquet file had followings columns:
 
 ## Exploratory Data Analysis
 
-- Approx 94K parquet files, each consist of a combination of landmarks data (movement) that represent one single sign - 250 unique labels in the dataset
+- Approx 94K parquet files, each consist of a combination of landmarks data (movement) that represent one single sign - 250 unique labels in the dataset.
 - Each frame has four landmark types - Each type has a fixed number of landmark indices
     ![Lanmark-indices](https://github.com/supreetn/American_Isolated_Sign_Language_Detection/assets/109064336/ae79632e-dc57-4c40-9594-6543bf0e04af) 
     Taking 543 landmarks per frame created a very bulky data for modelt o process, thus only important landmarks are considered - left hand, right hand and only the lip & head outline indices in face. 
